@@ -4,10 +4,6 @@
 	box-sizing: border-box;
 }
 
-body {
-	height: auto;
-}
-
 a {
 	text-decoration: none;
 }
@@ -74,8 +70,7 @@ footer {
 	background-color: gray;
 	color: white;
 	font-size: large;
-	position: absolute;
-	bottom: 0px;
+
 	width: 100%;
 }
 
